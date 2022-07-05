@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @luisgarcia905
+- 👀 I’m interested in learning automation techniques in Python (such as Selenium) and other applications such as UIPath, Boston Workstation, and Power Automate
+- 🌱 I’m currently learning Google Automation Course in Python
+- 💞️ I’m looking to collaborate on improving coding skills. I am newbie and my coding skills are still at beginner stage.
+- 📫 How to reach me ...You can email me at luis.garcia905@topper.wku.edu
